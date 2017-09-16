@@ -1,0 +1,1 @@
+实现spring+springmvc+mybatis框架的基本的搭建;完成基本的查询,对视图解析器返回的html或jsp进行了区分;开发者只需关注于逻辑代码的编写;
